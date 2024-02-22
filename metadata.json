@@ -1,0 +1,7 @@
+{
+  "name": "midwit",
+  "symbol": "midwit",
+  "description": "Don't midwit this, anon. Website: https://solmidwit.com/. Telegram: https://t.me/SolMidwit. X: https://twitter.com/solmidwit.",
+  "image": "https://raw.githubusercontent.com/solmidwit/midwit/main/midwit.png",
+  "extensions":{"website":"https://solmidwit.com/","twitter":"https://twitter.com/solmidwit","telegram":"https://t.me/SolMidwit"},"tags":[],"creator":{"name":"midwit","site":""}
+}
